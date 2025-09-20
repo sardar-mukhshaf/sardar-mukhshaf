@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-- Senior Full-Stack & DevOps Engineer with 2+ years of experience.  
+- Junior Full-Stack & DevOps Engineer with 2+ years of experience.  
 - Passionate about building **scalable, production-ready systems** and **high-performance web applications**.  
 - Open source enthusiast & contributor.  
 
