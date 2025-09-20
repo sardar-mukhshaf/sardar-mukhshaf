@@ -47,7 +47,7 @@
 ---
 
 ## 🏆 GitHub Stats & Highlights
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)](https://github.com/your-username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sardar-mukhshaf&layout=compact&theme=dark)](https://github.com/sardar-mukhshaf)
 
 ---
 
