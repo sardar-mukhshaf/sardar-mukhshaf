@@ -1,7 +1,7 @@
 # Hi there, I'm Sardar Mukhshaf 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sardar-mukhshaf)  
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=for-the-badge)](https://github.com/sardar-mukhshaf)
+[![GitHub followers](https://img.shields.io/github/followers/sardar-mukhshaf?label=Follow&style=for-the-badge)](https://github.com/sardar-mukhshaf)
 
 ---
 
@@ -47,7 +47,6 @@
 ---
 
 ## 🏆 GitHub Stats & Highlights
-[![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=dark)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)](https://github.com/your-username)
 
 ---
