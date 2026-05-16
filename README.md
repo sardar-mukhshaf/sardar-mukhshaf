@@ -52,7 +52,7 @@
 ---
 
 ## 📫 Contact Me
-- Email: [mksardar024@gmail.com](mailto:hello@sardarmukhshaf.com)  
+- Email: [hello@sardarmukhshaf.com](mailto:hello@sardarmukhshaf.com)  
 - LinkedIn: [linkedin.com/in/sardar-mukhshaf](https://www.linkedin.com/in/sardar-mukhshaf)  
 ---
 
