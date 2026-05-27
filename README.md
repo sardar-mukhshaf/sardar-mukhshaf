@@ -1,59 +1,85 @@
+<div align="center">
+
 # Sardar Mukhshaf
 
-Full-Stack Engineer focused on scalable web platforms, cloud infrastructure, DevOps automation, and modern frontend engineering.
+### Full-Stack Engineer • Motion Systems • DevOps • Cloud Architecture
 
-I build production-grade applications using React, Next.js, Node.js, TypeScript, AWS, Docker, and Kubernetes — with strong emphasis on performance, maintainability, scalability, and clean architecture.
+Building cinematic digital experiences, scalable web platforms, and production-grade infrastructure.
+
+<br/>
+
+[Portfolio](https://sardarmukhshaf.com) •
+[LinkedIn](https://linkedin.com/in/sardar-mukhshaf)
+
+</div>
 
 ---
 
-## Engineering Focus
+## Philosophy
 
+I engineer immersive web experiences where motion, performance, architecture, and infrastructure work as a single system.
+
+My work combines modern frontend engineering, cinematic UI interactions, scalable backend systems, and cloud-native DevOps workflows — focusing on experiences that feel visually refined, technically precise, and production-ready.
+
+---
+
+## Current Focus
+
+- Cinematic Frontend Engineering
 - Scalable Full-Stack Architecture
-- Cloud & DevOps Infrastructure
-- High-Performance Frontend Systems
-- CI/CD & Deployment Automation
-- Clean Architecture & SOLID Principles
-- Modern UI/UX Engineering
-- Performance Optimization & SEO
+- Motion Systems & Interaction Design
+- Cloud-Native Infrastructure
+- High-Performance Web Experiences
+- DevOps Automation & CI/CD
+- Modern UI/UX Systems
 
 ---
 
 ## Core Stack
 
-### Frontend
-React.js • Next.js • TypeScript • Redux Toolkit • Tailwind CSS • GSAP • Framer Motion
+```txt
+Frontend
+React.js • Next.js • TypeScript • GSAP • Framer Motion • TailwindCSS
 
-### Backend
-Node.js • Express.js • Prisma ORM • PostgreSQL • MongoDB • REST APIs
+Backend
+Node.js • Express.js • Prisma ORM • PostgreSQL • MongoDB
 
-### Cloud & DevOps
-AWS • Docker • Kubernetes • Terraform • Jenkins • GitHub Actions • NGINX • Linux
+Cloud & DevOps
+AWS • Docker • Kubernetes • Terraform • Jenkins • GitHub Actions
 
-### Observability & Security
-Grafana • Prometheus • Loki • Trivy • SonarQube • OWASP ZAP
-
----
-
-## Featured Projects
-
-### Scalable E-Commerce Platform
-Production-grade E-commerce architecture with modern frontend systems, scalable backend APIs, authentication, and cloud deployment workflows.
-
-### Cloud-Native DevOps Infrastructure
-Containerized deployment pipelines using Docker, Kubernetes, CI/CD automation, observability tooling, and AWS infrastructure.
-
-### High-Performance Frontend Systems
-Modern interactive frontend experiences focused on performance optimization, animation engineering, accessibility, and SEO.
+Observability
+Grafana • Prometheus • Loki • Trivy • SonarQube
+```
 
 ---
 
-## GitHub Statistics
+## Engineering Principles
 
-<!-- GitHub stats widgets here -->
+- Clean Architecture
+- Modular System Design
+- Performance-First Development
+- Accessibility & UX Precision
+- Scalable Infrastructure
+- Maintainable Codebases
+- Production Reliability
 
 ---
 
-## Connect
+## Selected Work
 
-Portfolio: https://sardarmukhshaf.com  
-LinkedIn: https://linkedin.com/in/sardar-mukhshaf
+### Immersive Frontend Systems
+Interactive web experiences engineered with cinematic motion, responsive layouts, smooth transitions, and high-performance rendering.
+
+### Scalable Full-Stack Platforms
+Production-ready applications built with scalable backend architecture, API-driven systems, authentication flows, and optimized frontend delivery.
+
+### Cloud & DevOps Infrastructure
+Containerized deployment workflows, CI/CD pipelines, Kubernetes orchestration, observability systems, and AWS infrastructure automation.
+
+---
+
+<div align="center">
+
+### Engineering Experiences Beyond Static Interfaces
+
+</div>
