@@ -180,15 +180,23 @@ Designed for large-scale MENA e-commerce traffic events.
 
 <div align="center">
 
+<div align="center">
+
 # GitHub Analytics
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sardar-mukhshaf&show_icons=true&theme=github_dark&hide_border=true&border_radius=12"/>
+<img 
+height="180em" 
+src="https://github-readme-streak-stats.herokuapp.com/?user=sardar-mukhshaf&theme=github-dark-blue&hide_border=true"
+/>
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardar-mukhshaf&layout=compact&theme=github_dark&hide_border=true&border_radius=12"/>
+<img 
+height="180em" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardar-mukhshaf&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+/>
 
 </div>
 
