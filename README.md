@@ -1,85 +1,119 @@
 <div align="center">
 
-# Sardar Mukhshaf
-
-### Full-Stack Engineer • Motion Systems • DevOps • Cloud Architecture
-
-Building cinematic digital experiences, scalable web platforms, and production-grade infrastructure.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Sardar%20Mukhshaf&fontAlign=50&fontAlignY=40&color=0:0f0f0f,100:1e293b&fontColor=ffffff&desc=Full-Stack%20Engineer%20•%20Motion%20Systems%20•%20DevOps&descAlignY=60&animation=fadeIn" width="100%" />
 
 <br/>
 
-[Portfolio](https://sardarmukhshaf.com) •
-[LinkedIn](https://linkedin.com/in/sardar-mukhshaf)
+<a href="https://sardarmukhshaf.com">
+  <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/sardar-mukhshaf">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/sardar-mukhshaf">
+  <img src="https://img.shields.io/github/followers/sardar-mukhshaf?style=for-the-badge&color=181717&labelColor=000000" />
+</a>
 
 </div>
 
 ---
 
-## Philosophy
+# Engineering Cinematic Digital Experiences
 
-I engineer immersive web experiences where motion, performance, architecture, and infrastructure work as a single system.
+I build immersive frontend systems, scalable full-stack platforms, and cloud-native infrastructure with strong focus on motion, architecture, performance, and production reliability.
 
-My work combines modern frontend engineering, cinematic UI interactions, scalable backend systems, and cloud-native DevOps workflows — focusing on experiences that feel visually refined, technically precise, and production-ready.
-
----
-
-## Current Focus
-
-- Cinematic Frontend Engineering
-- Scalable Full-Stack Architecture
-- Motion Systems & Interaction Design
-- Cloud-Native Infrastructure
-- High-Performance Web Experiences
-- DevOps Automation & CI/CD
-- Modern UI/UX Systems
-
----
-
-## Core Stack
-
-```txt
-Frontend
-React.js • Next.js • TypeScript • GSAP • Framer Motion • TailwindCSS
-
-Backend
-Node.js • Express.js • Prisma ORM • PostgreSQL • MongoDB
-
-Cloud & DevOps
-AWS • Docker • Kubernetes • Terraform • Jenkins • GitHub Actions
-
-Observability
-Grafana • Prometheus • Loki • Trivy • SonarQube
-```
-
----
-
-## Engineering Principles
-
-- Clean Architecture
-- Modular System Design
-- Performance-First Development
-- Accessibility & UX Precision
-- Scalable Infrastructure
-- Maintainable Codebases
-- Production Reliability
-
----
-
-## Selected Work
-
-### Immersive Frontend Systems
-Interactive web experiences engineered with cinematic motion, responsive layouts, smooth transitions, and high-performance rendering.
-
-### Scalable Full-Stack Platforms
-Production-ready applications built with scalable backend architecture, API-driven systems, authentication flows, and optimized frontend delivery.
-
-### Cloud & DevOps Infrastructure
-Containerized deployment workflows, CI/CD pipelines, Kubernetes orchestration, observability systems, and AWS infrastructure automation.
+My work combines modern UI engineering with scalable backend systems and DevOps workflows — creating experiences that feel visually refined, technically precise, and production-ready.
 
 ---
 
 <div align="center">
 
-### Engineering Experiences Beyond Static Interfaces
+## Core Stack
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,prisma,postgres,mongodb,docker,kubernetes,aws,terraform,jenkins,nginx,linux,git" />
+
+</div>
+
+---
+
+<div align="center">
+
+## Frontend & Motion Systems
+
+</div>
+
+* Cinematic UI Engineering
+* Motion Systems & Interactions
+* High-Performance Frontend Architecture
+* GSAP & Framer Motion Animations
+* Responsive & Accessible Interfaces
+* SEO & Core Web Vitals Optimization
+
+---
+
+<div align="center">
+
+## Backend & Infrastructure
+
+</div>
+
+* Scalable API Architecture
+* Clean Architecture & SOLID Principles
+* Cloud-Native Infrastructure
+* CI/CD Automation Pipelines
+* Kubernetes Orchestration
+* Monitoring & Observability Systems
+
+---
+
+<div align="center">
+
+## Featured Engineering Areas
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### Immersive Frontend Systems
+
+Modern interactive experiences engineered with motion, smooth transitions, performance optimization, and responsive layouts.
+
+</td>
+
+<td width="50%">
+
+### Scalable Cloud Infrastructure
+
+Production-grade deployments using Docker, Kubernetes, AWS, CI/CD pipelines, and observability tooling.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sardar-mukhshaf&show_icons=true&theme=transparent&hide_border=true" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardar-mukhshaf&layout=compact&theme=transparent&hide_border=true" height="180" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Building Systems Beyond Static Interfaces
 
 </div>
