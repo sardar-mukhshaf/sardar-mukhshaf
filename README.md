@@ -1,30 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Sardar%20Mukhshaf&fontAlign=50&fontAlignY=40&color=0:0f0f0f,100:1e293b&fontColor=ffffff&desc=Full-Stack%20Engineer%20•%20Motion%20Systems%20•%20DevOps&descAlignY=60&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0f0f,50:111827,100:1e293b&text=Sardar%20Mukhshaf&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20•%20Motion%20Systems%20•%20Cloud%20Architecture&descAlignY=58&animation=fadeIn"/>
 
 <br/>
 
 <a href="https://sardarmukhshaf.com">
-  <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/sardar-mukhshaf">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sardar-mukhshaf">
-  <img src="https://img.shields.io/github/followers/sardar-mukhshaf?style=for-the-badge&color=181717&labelColor=000000" />
+  <img src="https://img.shields.io/github/followers/sardar-mukhshaf?style=for-the-badge&logo=github&color=181717&labelColor=000000"/>
 </a>
 
 </div>
 
 ---
 
-# Engineering Cinematic Digital Experiences
+# Engineering Immersive Digital Systems
 
-I build immersive frontend systems, scalable full-stack platforms, and cloud-native infrastructure with strong focus on motion, architecture, performance, and production reliability.
+I build cinematic frontend experiences, scalable full-stack platforms, and production-grade cloud infrastructure with strong emphasis on motion, architecture, performance, DevSecOps, and operational resilience.
 
-My work combines modern UI engineering with scalable backend systems and DevOps workflows — creating experiences that feel visually refined, technically precise, and production-ready.
+My work combines modern UI engineering with cloud-native systems design — creating applications that are visually refined, technically precise, and built for scale.
 
 ---
 
@@ -32,51 +32,63 @@ My work combines modern UI engineering with scalable backend systems and DevOps 
 
 ## Core Stack
 
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,nestjs,prisma,postgres,mongodb,docker,kubernetes,aws,terraform,jenkins,nginx,linux,git,github,redux,tailwind" />
+
+</div>
+
+---
+
+<div align="center">
+
+## Frontend • Motion • Experience Engineering
+
 </div>
 
 <br/>
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Cinematic_UI_Engineering-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GSAP_&_Motion_Systems-0f172a?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/3D_Web_Experiences-1e293b?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Core_Web_Vitals-334155?style=for-the-badge"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,prisma,postgres,mongodb,docker,kubernetes,aws,terraform,jenkins,nginx,linux,git" />
-
-</div>
-
----
-
-<div align="center">
-
-## Frontend & Motion Systems
-
-</div>
-
-* Cinematic UI Engineering
-* Motion Systems & Interactions
-* High-Performance Frontend Architecture
-* GSAP & Framer Motion Animations
-* Responsive & Accessible Interfaces
-* SEO & Core Web Vitals Optimization
+* Interactive motion systems with GSAP & Framer Motion
+* High-performance frontend architecture
+* Cinematic UI transitions & immersive experiences
+* SEO-focused scalable frontend systems
+* Responsive and accessibility-first engineering
 
 ---
 
 <div align="center">
 
-## Backend & Infrastructure
+## Cloud • DevOps • Platform Engineering
 
 </div>
 
-* Scalable API Architecture
-* Clean Architecture & SOLID Principles
-* Cloud-Native Infrastructure
-* CI/CD Automation Pipelines
-* Kubernetes Orchestration
-* Monitoring & Observability Systems
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kubernetes_Platforms-0f172a?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Zero_Trust_Infrastructure-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DevSecOps_Pipelines-1e293b?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Enterprise_Observability-334155?style=for-the-badge"/>
+</p>
+
+* Kubernetes orchestration & scalable cloud systems
+* CI/CD automation pipelines with GitHub Actions & Jenkins
+* Infrastructure as Code using Terraform & AWS
+* Secure software supply chain implementation
+* Monitoring, observability, and runtime security systems
 
 ---
 
 <div align="center">
 
-## Featured Engineering Areas
+# Featured Engineering Projects
 
 </div>
 
@@ -84,17 +96,81 @@ My work combines modern UI engineering with scalable backend systems and DevOps 
 <tr>
 <td width="50%">
 
-### Immersive Frontend Systems
+## Secure Software Factory
 
-Modern interactive experiences engineered with motion, smooth transitions, performance optimization, and responsive layouts.
+### End-to-End DevSecOps Platform
+
+Production-grade secure software supply chain implementing:
+
+* Hardened Amazon EKS
+* SBOM tracking
+* Cosign image signing
+* Runtime threat detection
+* SAMA-aligned DevSecOps workflows
+* Kyverno admission control
+* Falco runtime monitoring
+* Dependency-Track analysis
+
+Designed for enterprise-grade financial security environments.
+
+<a href="https://github.com/sardar-mukhshaf/end-to-end-secure-software-factory">
+  <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
 <td width="50%">
 
-### Scalable Cloud Infrastructure
+## Zero-Trust Internal Developer Platform
 
-Production-grade deployments using Docker, Kubernetes, AWS, CI/CD pipelines, and observability tooling.
+### Enterprise Platform Engineering
+
+Production-ready Internal Developer Platform powered by:
+
+* AWS EKS
+* Backstage.io
+* Istio Service Mesh
+* OPA Gatekeeper
+* Tekton Pipelines
+* Keycloak SSO
+* GitOps workflows
+* SPIFFE workload identity
+
+Focused on secure self-service infrastructure automation at enterprise scale.
+
+<a href="https://github.com/sardar-mukhshaf/zero-trust-IDP">
+  <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="100%">
+
+## White Friday AutoScale Platform
+
+### High-Velocity Cloud Infrastructure
+
+Enterprise-grade AWS infrastructure blueprint engineered for:
+
+* Rapid pod scaling (10 → 10,000)
+* Karpenter-powered autoscaling
+* Chaos engineering validation
+* Distributed load testing
+* FinOps visibility
+* Production observability
+* Multi-region infrastructure resilience
+
+Designed for large-scale MENA e-commerce traffic events.
+
+<a href="https://github.com/sardar-mukhshaf/white-friday-autoscale">
+  <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
@@ -104,9 +180,15 @@ Production-grade deployments using Docker, Kubernetes, AWS, CI/CD pipelines, and
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sardar-mukhshaf&show_icons=true&theme=transparent&hide_border=true" height="180" />
+# GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardar-mukhshaf&layout=compact&theme=transparent&hide_border=true" height="180" />
+<br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sardar-mukhshaf&show_icons=true&theme=github_dark&hide_border=true&border_radius=12"/>
+
+<br/><br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardar-mukhshaf&layout=compact&theme=github_dark&hide_border=true&border_radius=12"/>
 
 </div>
 
@@ -114,6 +196,10 @@ Production-grade deployments using Docker, Kubernetes, AWS, CI/CD pipelines, and
 
 <div align="center">
 
-### Building Systems Beyond Static Interfaces
+## Engineering Experiences Beyond Static Interfaces
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sardar-mukhshaf&style=for-the-badge&color=111827"/>
 
 </div>
