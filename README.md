@@ -166,7 +166,7 @@ Enterprise-grade AWS infrastructure blueprint engineered for:
 * Production observability
 * Multi-region infrastructure resilience
 
-Designed for large-scale MENA e-commerce traffic events.
+Designed for large-scale MENA e-commerce traffic events irl.
 
 <a href="https://github.com/sardar-mukhshaf/white-friday-autoscale">
   <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
