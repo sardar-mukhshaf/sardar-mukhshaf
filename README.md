@@ -24,7 +24,7 @@
 
 I build cinematic frontend experiences, scalable full-stack platforms, and production-grade cloud infrastructure with strong emphasis on motion, architecture, performance, DevSecOps, and operational resilience.
 
-My work combines modern UI engineering with cloud-native systems design — creating applications that are visually refined, technically precise, and built for scale.
+My work combines modern UI engineering with cloud-native systems design, creating applications that are visually refined, technically precise, and built for scale.
 
 ---
 
