@@ -6,7 +6,7 @@
   <a href="https://sardarmukhshaf.com"><strong>Portfolio</strong></a> &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/sardar-mukhshaf/"><strong>LinkedIn</strong></a> &nbsp; / &nbsp;
   <a href="mailto:hello@sardarmukhshaf.com"><strong>Email</strong></a> &nbsp; / &nbsp;
-  <a href="#selected-projects"><strong>Explore the work ↓</strong></a>
+  <a href="#selected-projects"><strong>Explore my work ↓</strong></a>
 </p>
 
 # Full-Stack & DevOps Engineer
