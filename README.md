@@ -35,7 +35,7 @@ Four entry points into my work. Each repository contains the implementation and 
 <td width="50%" valign="top">
 <p><sub>BACKEND ARCHITECTURE</sub></p>
 <h3><a href="https://github.com/sardar-mukhshaf/real-state-api">Real Estate Management API</a></h3>
-<p>A Java and Spring Boot migration of a property-management backend, structured as a modular monolith with explicit domain and persistence boundaries.</p>
+<p>A Java and Spring Boot project of a property-management backend, structured as a modular monolith with explicit domain and persistence boundaries.</p>
 <p><strong>Inside:</strong> Rotating device sessions, transactional rental accounting, decimal money handling, Redis rate limits, private S3 storage, and integration tests.</p>
 <p><sub>Java · Spring Boot · PostgreSQL · Redis · Testcontainers</sub></p>
 </td>
