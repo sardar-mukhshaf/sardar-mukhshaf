@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Sardar Mukhshaf — Full-Stack and DevOps Engineer. Applications, cloud, and motion." />
+  <img src="./profile-banner.svg" width="100%" alt="Sardar Mukhshaf — Full-Stack and DevOps Engineer. Applications, cloud, and motion." />
 </p>
 
 <p align="center">
