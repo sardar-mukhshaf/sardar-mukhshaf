@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Sardar Mukhshaf — Full-Stack and DevOps Engineer</title>
+  <desc id="desc">A dark architectural banner with cyan accents and layered geometric forms. Applications, cloud, and motion.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101C2A"/><stop offset="1" stop-color="#080D15"/></linearGradient>
+    <linearGradient id="plane" x2="1" y2="1"><stop stop-color="#19384B"/><stop offset="1" stop-color="#102131"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#5CE0D2"/><stop offset="1" stop-color="#72A7FF"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#7591B0" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1280" height="360" rx="16" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="16" fill="url(#grid)"/>
+  <rect x="48" y="44" width="28" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="88" y="50" fill="#92A8BD" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="3">APPLICATIONS · CLOUD · MOTION</text>
+  <text x="46" y="139" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">SARDAR</text>
+  <text x="46" y="216" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">MUKHSHAF<tspan fill="#5CE0D2">.</tspan></text>
+  <text x="49" y="262" fill="#B0C1D2" font-family="Arial, Helvetica, sans-serif" font-size="18">Full-Stack Engineer / DevOps Engineer</text>
+  <line x1="49" y1="298" x2="1231" y2="298" stroke="#293A4C"/>
+  <text x="49" y="329" fill="#91A6BB" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.6">SOFTWARE ARCHITECTURE</text>
+  <text x="337" y="329" fill="#91A6BB" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.6">CLOUD PLATFORMS</text>
+  <text x="574" y="329" fill="#91A6BB" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.6">INTERACTIVE SYSTEMS</text>
+  <g stroke-linejoin="round">
+    <path d="M828 192 1000 127 1172 192 1000 260Z" fill="#0C1723" stroke="#36516B"/>
+    <path d="M828 192V209L1000 277V260Z" fill="#102131" stroke="#36516B"/>
+    <path d="M1000 260 1172 192V209L1000 277Z" fill="#152A3B" stroke="#36516B"/>
+    <path d="M828 144 1000 79 1172 144 1000 212Z" fill="url(#plane)" stroke="#52849B"/>
+    <path d="M828 144V161L1000 229V212Z" fill="#142C3D" stroke="#52849B"/>
+    <path d="M1000 212 1172 144V161L1000 229Z" fill="#1A3A4A" stroke="#52849B"/>
+    <path d="M828 96 1000 31 1172 96 1000 164Z" fill="url(#plane)" stroke="#5CE0D2" stroke-width="1.5"/>
+    <path d="M828 96V113L1000 181V164Z" fill="#193F4B" stroke="#5CE0D2"/>
+    <path d="M1000 164 1172 96V113L1000 181Z" fill="#24505A" stroke="#5CE0D2"/>
+    <path d="M888 96 1000 53 1112 96 1000 140Z" fill="none" stroke="#5CE0D2" stroke-opacity=".25"/>
+    <path d="M947 97 1000 76 1053 97 1000 118Z" fill="#5CE0D2" fill-opacity=".11" stroke="#5CE0D2" stroke-opacity=".55"/>
+  </g>
+</svg>
