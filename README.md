@@ -1,213 +1,111 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0f0f,50:111827,100:1e293b&text=Sardar%20Mukhshaf&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20•%20Motion%20Systems%20•%20Cloud%20Architecture&descAlignY=58&animation=fadeIn"/>
-
-<br/>
-
-<a href="https://sardarmukhshaf.com">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/sardar-mukhshaf">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sardar-mukhshaf">
-  <img src="https://img.shields.io/github/followers/sardar-mukhshaf?style=for-the-badge&logo=github&color=181717&labelColor=000000"/>
-</a>
-
-</div>
-
----
-
-# Engineering Immersive Digital Systems
-
-I build cinematic frontend experiences, scalable full-stack platforms, and production-grade cloud infrastructure with strong emphasis on motion, architecture, performance, DevSecOps, and operational resilience.
-
-My work combines modern UI engineering with cloud-native systems design, creating applications that are visually refined, technically precise, and built for scale.
-
----
-
-<div align="center">
-
-## Core Stack
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,nestjs,prisma,postgres,mongodb,docker,kubernetes,aws,terraform,jenkins,nginx,linux,git,github,redux,tailwind" />
-
-</div>
-
----
-
-<div align="center">
-
-## Frontend • Motion • Experience Engineering
-
-</div>
-
-<br/>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Cinematic_UI_Engineering-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GSAP_&_Motion_Systems-0f172a?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/3D_Web_Experiences-1e293b?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Core_Web_Vitals-334155?style=for-the-badge"/>
+  <img src="./assets/profile-banner.svg" width="100%" alt="Sardar Mukhshaf — Full-Stack and DevOps Engineer. Applications, cloud, and motion." />
 </p>
 
-* Interactive motion systems with GSAP & Framer Motion
-* High-performance frontend architecture
-* Cinematic UI transitions & immersive experiences
-* SEO-focused scalable frontend systems
-* Responsive and accessibility-first engineering
-
----
-
-<div align="center">
-
-## Cloud • DevOps • Platform Engineering
-
-</div>
-
-<br/>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Kubernetes_Platforms-0f172a?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Zero_Trust_Infrastructure-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DevSecOps_Pipelines-1e293b?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Enterprise_Observability-334155?style=for-the-badge"/>
+  <a href="https://sardarmukhshaf.com"><strong>Portfolio</strong></a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/sardar-mukhshaf/"><strong>LinkedIn</strong></a> &nbsp; / &nbsp;
+  <a href="mailto:hello@sardarmukhshaf.com"><strong>Email</strong></a> &nbsp; / &nbsp;
+  <a href="#selected-projects"><strong>Explore the work ↓</strong></a>
 </p>
 
-* Kubernetes orchestration & scalable cloud systems
-* CI/CD automation pipelines with GitHub Actions & Jenkins
-* Infrastructure as Code using Terraform & AWS
-* Secure software supply chain implementation
-* Monitoring, observability, and runtime security systems
+# Full-Stack & DevOps Engineer
+
+I build applications and the infrastructure behind them: secure backends, interactive frontends, and automated cloud platforms. My work connects **software architecture, AWS infrastructure, and developer experience**, from PostgreSQL transactions and session security to Terraform modules and Kubernetes delivery workflows.
+
+On the frontend, I work with **React, WebGL, and GSAP** to build motion-driven interfaces. On the platform side, I focus on **repeatable provisioning, controlled releases, and observable services**.
+
+**Open to Cloud Engineering, DevOps, Platform Engineering, and Full-Stack opportunities.**
 
 ---
 
-<div align="center">
+## Selected projects
 
-# Featured Engineering Projects
-
-</div>
+Four entry points into my work. Each repository contains the implementation and its supporting documentation.
 
 <table>
 <tr>
-<td width="50%">
-
-## Secure Software Factory
-
-### End-to-End DevSecOps Platform
-
-Production-grade secure software supply chain implementing:
-
-* Hardened Amazon EKS
-* SBOM tracking
-* Cosign image signing
-* Runtime threat detection
-* SAMA-aligned DevSecOps workflows
-* Kyverno admission control
-* Falco runtime monitoring
-* Dependency-Track analysis
-
-Designed for enterprise-grade financial security environments.
-
-<a href="https://github.com/sardar-mukhshaf/end-to-end-secure-software-factory">
-  <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+<td width="50%" valign="top">
+<p><sub>PLATFORM ENGINEERING</sub></p>
+<h3><a href="https://github.com/sardar-mukhshaf/NEXUS">NEXUS</a></h3>
+<p>An internal developer platform that brings self-service infrastructure, GitOps, and software supply chain controls into one reference implementation.</p>
+<p><strong>Inside:</strong> Backstage service templates, Atlantis workflows, Argo CD applications, SOPS secrets, image-signing configuration, and runtime security tooling.</p>
+<p><sub>AWS EKS · Terraform · Backstage · Argo CD · Kyverno</sub></p>
 </td>
-
-<td width="50%">
-
-## Zero-Trust Internal Developer Platform
-
-### Enterprise Platform Engineering
-
-Production-ready Internal Developer Platform powered by:
-
-* AWS EKS
-* Backstage.io
-* Istio Service Mesh
-* OPA Gatekeeper
-* Tekton Pipelines
-* Keycloak SSO
-* GitOps workflows
-* SPIFFE workload identity
-
-Focused on secure self-service infrastructure automation at enterprise scale.
-
-<a href="https://github.com/sardar-mukhshaf/zero-trust-IDP">
-  <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+<td width="50%" valign="top">
+<p><sub>BACKEND ARCHITECTURE</sub></p>
+<h3><a href="https://github.com/sardar-mukhshaf/real-state-api">Real Estate Management API</a></h3>
+<p>A Java and Spring Boot migration of a property-management backend, structured as a modular monolith with explicit domain and persistence boundaries.</p>
+<p><strong>Inside:</strong> Rotating device sessions, transactional rental accounting, decimal money handling, Redis rate limits, private S3 storage, and integration tests.</p>
+<p><sub>Java · Spring Boot · PostgreSQL · Redis · Testcontainers</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><sub>SOFTWARE SUPPLY CHAIN</sub></p>
+<h3><a href="https://github.com/sardar-mukhshaf/Silsila-Hardened-Pipeline">Silsila Hardened Pipeline</a></h3>
+<p>A secure software factory reference implementation covering source analysis, dependency and container scans, artifact traceability, and runtime detection.</p>
+<p><strong>Inside:</strong> CycloneDX SBOMs, Dependency-Track integration, Cosign/KMS signing workflows, Kyverno admission policies, and Falco detection rules.</p>
+<p><sub>GitHub Actions · Trivy · Syft · Cosign · Falco</sub></p>
+</td>
+<td width="50%" valign="top">
+<p><sub>AUTOSCALING &amp; RELIABILITY</sub></p>
+<h3><a href="https://github.com/sardar-mukhshaf/WhiteFriday-Engine">WhiteFriday Engine</a></h3>
+<p>An AWS e-commerce infrastructure project exploring capacity management, workload isolation, and service behavior under changing traffic.</p>
+<p><strong>Inside:</strong> Spot and On-Demand Karpenter pools, pod autoscaling, disruption budgets, load-test scenarios, chaos manifests, and cost dashboards.</p>
+<p><sub>AWS EKS · Karpenter · k6 · LitmusChaos · Grafana</sub></p>
 </td>
 </tr>
 </table>
 
----
+## More engineering projects
 
-<table>
-<tr>
-<td width="100%">
+| Project | Engineering focus |
+| :--- | :--- |
+| **[NEZEN IDP](https://github.com/sardar-mukhshaf/NEZEN-IDP)** | Developer self-service with Backstage and Tekton; Terraform service modules, namespace quotas, team RBAC, Istio mTLS, and OPA/Gatekeeper policies. |
+| **[Thabit Control Plane](https://github.com/sardar-mukhshaf/Thabit-Control-Plane)** | Infrastructure governance through Atlantis and Argo CD; SOPS/KMS secret workflows, Python/Lambda resource checks, SNS alerts, and break-glass runbooks. |
+| **[SamaVault Platform](https://github.com/sardar-mukhshaf/SamaVault-Platform)** | AWS infrastructure for financial-services use cases; network segmentation, EKS, encrypted RDS, CloudTrail, S3 Object Lock, and configuration auditing. |
+| **[Nazar Governance Mesh](https://github.com/sardar-mukhshaf/Nazar-Governance-Mesh)** | Jenkins delivery workflows for TypeScript applications; SonarQube checks, container scanning, ECR publishing, GitOps manifest updates, EKS, and Aurora PostgreSQL. |
+| **[Terraforms Ecom](https://github.com/sardar-mukhshaf/Terraforms-Ecom)** | Eight reusable AWS Terraform modules spanning VPC, IAM, EKS, RDS, ALB, ECR, S3, and CloudWatch, with separate development and production configurations. |
+| **[Wafi Transaction Platform](https://github.com/sardar-mukhshaf/Wafi-Transaction-Platform)** | Distributed commerce with Go, Java, and NestJS services; Kafka messaging, payment saga orchestration, an outbox publisher, and Kubernetes delivery assets. |
+| **[SmogPrediction](https://github.com/sardar-mukhshaf/SmogPrediction)** | An air-quality application with prediction views, historical readings, analytics, and a Next.js/TypeScript interface. |
 
-## White Friday AutoScale Platform
+## Selected client work
 
-### High-Velocity Cloud Infrastructure
+| Project | My contribution |
+| :--- | :--- |
+| **[Enorus](https://enorus.com/)** | Website development, technical SEO, structured data, and Vite rendering and performance improvements. |
+| **[AFKA Fitness](https://afka-fitness.enorus.com/)** | Backend authentication, JWT refresh-token rotation, session protection, and API rate limiting. |
+| **[Ultimate Cricket Coaching](https://ultimatecc.enorus.com/)** | Full-stack delivery across the Node.js/Vite application, PostgreSQL data model, API security, and coaching workflows. |
+| **[North Fades](https://northfades.enorus.com/)** | Migration from Laravel to Node.js, Express, React, and Vite, with clearer application boundaries. |
 
-Enterprise-grade AWS infrastructure blueprint engineered for:
+**[Personal portfolio — sardarmukhshaf.com](https://sardarmukhshaf.com/)**
 
-* Rapid pod scaling (10 → 10,000)
-* Karpenter-powered autoscaling
-* Chaos engineering validation
-* Distributed load testing
-* FinOps visibility
-* Production observability
-* Multi-region infrastructure resilience
+An interactive frontend built with React, Vite, React Three Fiber, GSAP, and Lenis, combining a 3D hero, coordinated scroll sequences, and search-friendly rendering.
 
-Designed for large-scale MENA e-commerce traffic events.
+## Tools I work with
 
-<a href="https://github.com/sardar-mukhshaf/white-friday-autoscale">
-  <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+| Area | Technologies |
+| :--- | :--- |
+| **Cloud & infrastructure** | AWS · Terraform · Linux · Docker · Kubernetes · EKS · Helm · Karpenter |
+| **Delivery & platforms** | GitHub Actions · Jenkins · GitLab CI · Argo CD · Atlantis · Tekton · Backstage |
+| **Security & observability** | IAM · OIDC · RBAC · Istio · OPA · Kyverno · Trivy · Cosign · Prometheus · Grafana · Falco |
+| **Backend & data** | TypeScript · Node.js · Express · NestJS · Java · Spring Boot · PostgreSQL · Prisma · Redis |
+| **Frontend & motion** | React · Next.js · Vite · Tailwind CSS · GSAP · Three.js · React Three Fiber · Lenis |
+| **Automation & validation** | Bash · Python · k6 · Locust · Testcontainers · Flyway · Infracost |
 
-</td>
-</tr>
-</table>
+## How I approach engineering
 
----
-
-<div align="center">
-
-<div align="center">
-
-# GitHub Analytics
-
-<br/>
-
-<img 
-height="180em" 
-src="https://github-readme-streak-stats.herokuapp.com/?user=sardar-mukhshaf&theme=github-dark-blue&hide_border=true"
-/>
-
-<br/><br/>
-
-<img 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardar-mukhshaf&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-/>
-
-</div>
+- **Keep boundaries explicit.** Separate domain rules, application use cases, and infrastructure adapters so changes stay understandable.
+- **Treat security as implementation work.** Define authorization, token lifecycle, workload identity, and admission policies in code.
+- **Make changes reviewable.** Use versioned infrastructure, pull requests, automated checks, and documented recovery paths.
+- **Measure behavior.** Use logs, metrics, and tests to investigate performance and failure modes.
+- **Make interaction deliberate.** Use motion to guide attention, with accessible navigation and responsive behavior.
 
 ---
 
-<div align="center">
-
-## Engineering Experiences Beyond Static Interfaces
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=sardar-mukhshaf&style=for-the-badge&color=111827"/>
-
-</div>
+<p align="center">
+  <strong>Have a role or a project in mind?</strong><br />
+  <a href="mailto:hello@sardarmukhshaf.com">hello@sardarmukhshaf.com</a> &nbsp; · &nbsp;
+  <a href="https://sardarmukhshaf.com">sardarmukhshaf.com</a>
+</p>
