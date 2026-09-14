@@ -91,7 +91,7 @@ An interactive frontend built with React, Vite, React Three Fiber, GSAP, and Len
 | **Delivery & platforms** | GitHub Actions · Jenkins · GitLab CI · Argo CD · Atlantis · Tekton · Backstage |
 | **Security & observability** | IAM · OIDC · RBAC · Istio · OPA · Kyverno · Trivy · Cosign · Prometheus · Grafana · Falco |
 | **Backend & data** | TypeScript · Node.js · Express · NestJS · Java · Spring Boot · PostgreSQL · Prisma · Redis |
-| **Frontend & motion** | React · Next.js · Vite · Tailwind CSS · GSAP · Three.js · React Three Fiber · Lenis |
+| **Frontend & motion** | React · Next.js · Vite · Tailwind CSS · GSAP · Framer-Motion · Three.js · React Three Fiber · Lenis |
 | **Automation & validation** | Bash · Python · k6 · Locust · Testcontainers · Flyway · Infracost |
 
 ## How I approach engineering
