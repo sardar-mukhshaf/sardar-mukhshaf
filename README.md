@@ -9,7 +9,8 @@
   <a href="#selected-projects"><strong>Explore my work ↓</strong></a>
 </p>
 
-# Full-Stack & DevOps Engineer
+# Full Stack Engineer
+# System & DevOps Engineer
 
 I build applications and the infrastructure behind them: secure backends, interactive frontends, and automated cloud platforms. My work connects **software architecture, AWS infrastructure, and developer experience**, from PostgreSQL transactions and session security to Terraform modules and Kubernetes delivery workflows.
 
