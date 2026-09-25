@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sardarmukhshaf.com"><strong>My Portfolio</strong></a> &nbsp; / &nbsp;
+  <a href="https://sardarmukhshaf.com"><strong>Personel Portfolio</strong></a> &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/sardar-mukhshaf/"><strong>LinkedIn</strong></a> &nbsp; / &nbsp;
   <a href="mailto:hello@sardarmukhshaf.com"><strong>Email</strong></a> &nbsp; / &nbsp;
   <a href="#selected-projects"><strong>Explore my work ↓</strong></a>
